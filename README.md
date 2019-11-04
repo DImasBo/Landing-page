@@ -1,3 +1,2 @@
 #Сайт візитка Django Landing-page 
-на цій платформі вже працює два сайта https://arcticengineering.com.ua/ https://condiservice.com/  
-Звичайни сайт візитка.
+звичайні сайти візитки з підтримкою редагування контенту по потрібності. Працює два сайта https://arcticengineering.com.ua/ https://condiservice.com/  
